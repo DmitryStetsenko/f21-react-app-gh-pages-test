@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f21-react-app-gh-pages-test/static/css/main.6cb5180c.css",
+    "main.js": "/f21-react-app-gh-pages-test/static/js/main.32c63e6a.js",
+    "index.html": "/f21-react-app-gh-pages-test/index.html",
+    "main.6cb5180c.css.map": "/f21-react-app-gh-pages-test/static/css/main.6cb5180c.css.map",
+    "main.32c63e6a.js.map": "/f21-react-app-gh-pages-test/static/js/main.32c63e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb5180c.css",
+    "static/js/main.32c63e6a.js"
+  ]
+}
